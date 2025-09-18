@@ -28,6 +28,8 @@ import WhatsAppChat from "./components/Whatsappchat";
 import FlashMain from "./FlashcardApp/FlashMain";
 import Acp from "./components/Acp";
 import Pmp from "./components/Pmp";
+import AtpBadgeSection from "./components/AtpBadgeSection.js";
+
 
 import PdfDocs from "./components/PdfDocs";
 import Docs from "./components/ProjectDocs/pages/Docs";
@@ -46,6 +48,7 @@ function App() {
             element={
               <>
                 <Hero />
+                <AtpBadgeSection />
                 <Banner />
                 <Benefit />
                 <Preparation />
