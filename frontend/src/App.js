@@ -1,4 +1,6 @@
 /* global gtag */
+//app.js file 
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
