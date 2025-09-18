@@ -5,7 +5,7 @@ const Login = () => {
     <div className="h-screen flex items-center justify-center bg-gray-100">
       <div className="w-full max-w-md p-6 bg-white rounded-lg shadow-lg">
         <h2 className="text-4xl font-bold text-center text-gray-800 mb-6 animate-fadeIn">
-          Welcome to Edzest Education Services
+          Welcome to Edzest Education Services.
         </h2>
         <form>
           <div className="mb-4">
