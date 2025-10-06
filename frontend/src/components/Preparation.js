@@ -24,16 +24,16 @@ export default function PreparationOptions() {
             Live Online Training
           </h2>
           <ul className="text-gray-700 text-left text-base sm:text-lg list-disc mb-6 space-y-2 px-4">
+            <li>PMI® official content and 35 contact hours</li>
             <li>Live, Online, Zoom (Sat & Sun)</li>
             <li>5 weeks (8 hrs/week) – 40 hrs</li>
             <li>Free access to project management course</li>
             <li>1 year access to mock exam simulators</li>
-            <li>35 contact hours certificate</li>
             <li>Application writing support</li>
             <li>1:1 discussion and guidance till your exam</li>
           </ul>
           <a
-            href="https://exams.edzest.org/learn/PMP-training-23rd-Aug-batch"
+            href="https://exams.edzest.org/learn/PMP-Oct25"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full mt-auto"

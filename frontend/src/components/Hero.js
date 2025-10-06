@@ -41,7 +41,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-3 sm:gap-6 mt-5 sm:mt-10">
             <Link
-  to="https://exams.edzest.org/learn/PMP-11th-Oct"
+  to="https://exams.edzest.org/learn/PMP-Oct25"
   onClick={() => {
     if (window.gtag) {
       window.gtag('event', 'explore_click', {
